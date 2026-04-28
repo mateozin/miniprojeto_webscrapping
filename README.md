@@ -4,7 +4,7 @@ Um algoritimo que por enquanto apenas encontra noticias com mais de 30 caractere
 Crie um ambiente virtual na pasta do arquivo e ative-o
 ```
 python -m venv .venv
-.venv\Scripts\activate.bat
+.venv\Scripts\activate
 ```
 Instale os "requirements.txt"
 ```
